@@ -6,7 +6,9 @@ authors = ["sandeep k nayak"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = ">=3.10,<3.13"
+pandas = "^2.2.2"
+fireducks = "^0.12.5"
 
 
 [build-system]
