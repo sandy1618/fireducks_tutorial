@@ -1,0 +1,8 @@
+,pandas,fireducks.pandas,polars
+load-time,5.9719,3.672,4.1646
+dropna-time,2.2961,0.7965,0.0162
+filter-time,9.2858,1.9567,1.5072
+describe-time,7.6417,6.0577,2.5871
+value-count-time,1.9799,2.3549,4.5056
+groupby-agg-time,20.9748,1.6684,3.622
+top10-user-time,6.4473,1.7467,3.8881
