@@ -9,6 +9,11 @@ readme = "README.md"
 python = ">=3.10,<3.13"
 pandas = "^2.2.2"
 fireducks = "^0.12.5"
+pip = "^24.2"
+ipykernel = "^6.29.5"
+polars = "^1.7.1"
+polars-lts-cpu = {extras = ["all"], version = "^1.7.1"}
+matplotlib = "^3.9.2"
 
 
 [build-system]
